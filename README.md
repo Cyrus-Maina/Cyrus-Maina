@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Cyrus-Maina
-- 👀 I’m interested in Data analysis.That is working on datasets to deduce insights, visualizing and presenting them.
+- 👀 I’m interested in Data analysis. That is working on datasets to deduce insights, visualizing and presenting them.
 - 🌱 I’m currently learning Business Intelligence Analysis
-- 💞️ I’m looking forward to collaborating and gaining knowledge on tools that make analysis and visualization better and effective
+- 💞️ I’m looking forward to collaborating and gaining knowledge on tools that make analysis and visualization better and more effective
+- LinkedIn Profile> https://www.linkedin.com/in/cyrus-kanyiri/
 - 📫 How to reach me>>amcyrussir@gmail.com
 - 📊 Currently open for a job in the data analysis field.
 
