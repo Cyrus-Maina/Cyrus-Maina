@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cyrus-Maina
-- 👀 I analyze datasets to deduct valuable insights that enrich the decision-making process.
+- 👀 I analyze datasets/databases to deduct valuable insights that enrich the decision-making process.
 - 🌱 I’m currently growing my Data Analysis Career
 - 💞️ I’m looking forward to offering my skills to the growth of a company.
 -   LinkedIn Profile> https://www.linkedin.com/in/cyrus-kanyiri/
